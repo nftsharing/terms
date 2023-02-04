@@ -1,7 +1,7 @@
-WEBSITE TERMS AND CONDITIONS
+# WEBSITE TERMS AND CONDITIONS
 ‍
 
-The website located at www.CollectTrumpCards.com (the “Website”) is the intellectual property of NFT INT, LLC (hereinafter collectively referred to as “we” “our” or “us”). The following Terms and Conditions also incorporate by reference our Privacy Policy, the NFT Terms and Conditions  (as defined below), the Sweepstakes Official Rules (as defined below), the Website FAQs, and any and all other applicable operating rules, policies, price schedules and other terms and conditions or documents that may be published from time to time, which are expressly incorporated herein by reference (collectively, the “Terms and Conditions”).
+The website located at https://nftsharing.github.io (the “Website”) is the intellectual property of NFT INT, LLC (hereinafter collectively referred to as “we” “our” or “us”). The following Terms and Conditions also incorporate by reference our Privacy Policy, the NFT Terms and Conditions  (as defined below), the Sweepstakes Official Rules (as defined below), the Website FAQs, and any and all other applicable operating rules, policies, price schedules and other terms and conditions or documents that may be published from time to time, which are expressly incorporated herein by reference (collectively, the “Terms and Conditions”).
 
 ‍
 
@@ -142,19 +142,7 @@ FOR CALIFORNIA ENTRANTS: EACH ENTRANT UNDERSTANDS AND AGREES THAT ALL RIGHTS UND
 
 ‍
 
-21. Copyright Policy/DMCA Compliance. We reserve the right to terminate the account of any user who infringes upon third-party copyrights. If any user or other third-party believes that a copyrighted work has been copied and/or posted via the Offerings in a way that constitutes copyright infringement, that party should provide the following information: (a) an electronic or physical signature of the person authorized to act on behalf of the owner of the copyrighted work; (b) an identification and location of the copyrighted work that such party claims has been infringed upon; (c) a written statement by such party that it has a good faith belief that the disputed use is not authorized by the owner, its agent or the law; (d) such party’s name and contact information, such as telephone number or e-mail address; and (e) a statement by such party that the above information in such party’s notice is accurate and, under penalty of perjury, that such party is the copyright owner or authorized to act on the copyright owner’s behalf. Contact information for our Copyright Agent for notice of claims of copyright infringement is as follows: 
-
-‍
-
-NFT INT LLC
-
-Attn: DMCA
-
-1776 Park Avenue
-
-Suite 4161
-
-Park City, UT 84060
+21. Copyright Policy/DMCA Compliance. We reserve the right to terminate the account of any user who infringes upon third-party copyrights. If any user or other third-party believes that a copyrighted work has been copied and/or posted via the Offerings in a way that constitutes copyright infringement, that party should provide the following information: (a) an electronic or physical signature of the person authorized to act on behalf of the owner of the copyrighted work; (b) an identification and location of the copyrighted work that such party claims has been infringed upon; (c) a written statement by such party that it has a good faith belief that the disputed use is not authorized by the owner, its agent or the law; (d) such party’s name and contact information, such as telephone number or e-mail address; and (e) a statement by such party that the above information in such party’s notice is accurate and, under penalty of perjury, that such party is the copyright owner or authorized to act on the copyright owner’s behalf. 
 
 ‍
 
@@ -185,5 +173,3 @@ FOR PURPOSES OF ANY COURT PROCEEDINGS, YOU AGREE THAT ANY SUCH DISPUTE SHALL BE 
 25. Contact Us. If you have any questions about the Terms and Conditions or the practices of https://nftsharing.github.io, please feel free to e-mail us at: [nftsharing_communit](https://t.me/nftsharing_community).
 
 ‍
-
-Last Updated: November 21, 2022
